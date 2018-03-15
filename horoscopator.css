@@ -1,0 +1,33 @@
+body {
+	background-image: url("horoscopator.jpg");
+}
+
+.container {
+	color: white;
+}
+
+#annonce {
+	font-weight: bold;
+	vertical-align: middle;
+	padding: 50px;
+}
+
+.datedujour {
+	font-size: 2.5em;
+}
+
+label {
+	padding: 20px;
+	font-size: 1.5em;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	margin: auto auto;
+	vertical-align: middle;
+}
+
